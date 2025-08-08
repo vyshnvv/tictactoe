@@ -63,6 +63,7 @@ MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
 Replace ```your_mongodb_atlas_connection_string``` and ```your_jwt_secret_key``` with actual values.
+Use ```openssl rand -base64 32``` to create a JWT secret or provide a random string.
 
 
 ### 4. Build the App
