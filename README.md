@@ -58,7 +58,7 @@ npm install
 Create a .env file inside the server/ directory with the following content:
 
 ```bash
-PORT=5000
+PORT=5001
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
