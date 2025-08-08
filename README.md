@@ -62,7 +62,7 @@ PORT=5000
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
-Replace ```bash your_mongodb_atlas_connection_string``` and ```bash your_jwt_secret_key``` with actual values.
+Replace ```your_mongodb_atlas_connection_string``` and ```your_jwt_secret_key``` with actual values.
 
 
 ### 4. Build the App
