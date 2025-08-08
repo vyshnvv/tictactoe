@@ -90,4 +90,6 @@ npm run dev
 
 ## 🌐 Live Demo
 
-(https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif) [Click here to try the app](https://tictactoe-f147.onrender.com)
+[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pieXl0aWFzZmt2bndvbmw3eXkyYmdmdjB4dGJwM2N6czc4YXY3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif) [Click here to try the app](https://tictactoe-f147.onrender.com)
+
+
