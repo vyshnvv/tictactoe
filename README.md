@@ -39,8 +39,8 @@ A real-time, multiplayer TicTacToe game built using the **MERN stack** and **Soc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vyshnvv/tictactoe
-cd tictactoe
+git clone https://github.com/vyshnvv/tictactoe-web-app
+cd tictactoe-web-app
 ```
 ### 2. Install Dependencies
 
