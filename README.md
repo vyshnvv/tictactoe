@@ -41,3 +41,47 @@ A real-time, multiplayer TicTacToe game built using the **MERN stack** and **Soc
 ```bash
 git clone https://github.com/your-username/tictactoe-mern-socketio.git
 cd tictactoe-mern-socketio
+```
+### 2. Install Dependencies
+
+```bash
+cd server
+npm install
+```
+
+```bash
+cd client
+npm install
+```
+
+### 3. Set Up Environment Variables
+Create a .env file inside the server/ directory with the following content:
+
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_atlas_connection_string
+JWT_SECRET=your_jwt_secret_key
+```
+Replace ```bash your_mongodb_atlas_connection_string``` and ```bash your_jwt_secret_key``` with actual values.
+
+
+### 4. Build the App
+From the root directory:
+
+```bash
+npm run build
+```
+
+### 5. Start Development Servers
+
+Backend (Express + Socket.IO)
+```bash
+cd server
+npm run dev
+```
+
+Frontend (React)
+```bash
+cd client
+npm run dev
+```
