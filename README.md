@@ -90,4 +90,4 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try the app]([https://your-app-url.onrender.com](https://tictactoe-f147.onrender.com))
+🔗 [Click here to try the app](https://tictactoe-f147.onrender.com)
