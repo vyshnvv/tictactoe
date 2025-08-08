@@ -90,6 +90,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[https://tictactoe-f147.onrender.com](https://tictactoe-ptmq.onrender.com))
+[https://media.giphy.com/media/mWnDeIKilkwDcrM2VT/giphy.gif](https://media.giphy.com/media/mWnDeIKilkwDcrM2VT/giphy.gif)
+[https://tictactoe-f147.onrender.com](https://tictactoe-ptmq.onrender.com)
 
 
