@@ -87,7 +87,7 @@ cd client
 npm run dev
 ```
 
-
-[## 🌐 Live Demo](https://tictactoe-ptmq.onrender.com)
+## 🌐 Live Demo
+[Check It Out](https://tictactoe-ptmq.onrender.com)
 
 
