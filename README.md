@@ -1,6 +1,6 @@
 # 🕹️ Real-Time TicTacToe Web App
 
-A real-time, multiplayer TicTacToe game built using the **MERN stack** and **Socket.IO**. Users can register, log in, challenge other users in real-time, and track their gameplay statistics like win rate and total games played.
+A real-time, multiplayer TicTacToe game built using the **MERN stack** and **Socket.IO**. Users can register, log in, challenge other users in real-time, and track their gameplay statistics like win rate and total games played.\n
 ![License](https://img.shields.io/github/license/vyshnvv/tictactoe-web-app)
 ---
 
