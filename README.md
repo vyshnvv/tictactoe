@@ -90,7 +90,6 @@ npm run dev
 ## 🌐 Live Demo
 [Check It Out](https://tictactoe-ptmq.onrender.com)
 
-![Build](https://img.shields.io/github/actions/workflow/status/username/repo/main.yml)
-![License](https://img.shields.io/github/license/username/repo)
+![License](https://img.shields.io/github/license/vyshnvv/tictactoe-web-app)
 
 
