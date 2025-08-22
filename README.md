@@ -88,8 +88,6 @@ npm run dev
 ```
 
 
-## 🌐 Live Demo
-
-[https://tictactoe-f147.onrender.com](https://tictactoe-ptmq.onrender.com)
+[## 🌐 Live Demo](https://tictactoe-ptmq.onrender.com)
 
 
