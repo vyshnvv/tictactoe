@@ -89,7 +89,7 @@ npm run dev
 ```
 
 ## 🌐 Live Demo
-[Check It Out](https://tictactoe-ptmq.onrender.com)
+[Check It Out](https://tictactoe-web-app-jg3w.onrender.com)
 
 
 
